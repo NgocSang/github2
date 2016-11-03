@@ -1,0 +1,10 @@
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\Models.dll.config
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\Models.dll
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\Models.pdb
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\EntityFramework.dll
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\EntityFramework.xml
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\obj\Debug\Models.dll
+E:\Tài liệu học và bài tập\HTTT hiện đại\github2\ThemUser\Models\obj\Debug\Models.pdb
