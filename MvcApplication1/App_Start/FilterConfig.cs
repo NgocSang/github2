@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Github2
+namespace MvcApplication1
 {
     public class FilterConfig
     {

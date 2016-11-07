@@ -6,11 +6,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9047FA68-0DA9-4C00-9A42-D60B65B37AB8}</ProjectGuid>
+    <ProjectGuid>{261EEFD4-4872-4A26-BFC3-2DA66419C575}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Github2.Tests</RootNamespace>
-    <AssemblyName>Github2.Tests</AssemblyName>
+    <RootNamespace>MvcApplication1.Tests</RootNamespace>
+    <AssemblyName>MvcApplication1.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -106,9 +106,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Github2\Github2.csproj">
-      <Project>{AC2191B5-4B19-47E1-806C-A60BCD9F65D2}</Project>
-      <Name>Github2</Name>
+    <ProjectReference Include="..\MvcApplication1\MvcApplication1.csproj">
+      <Project>{37A5BF57-D341-4B7D-BD90-D81877D6B0E4}</Project>
+      <Name>MvcApplication1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
